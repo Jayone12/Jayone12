@@ -3,6 +3,7 @@
 Hi! I'm Jay.  
 Front-end developer in 🇰🇷south korea.
 
+<br>
 
 ### Skiils 💻
 ---
